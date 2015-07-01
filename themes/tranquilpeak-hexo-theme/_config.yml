@@ -93,13 +93,13 @@ header:
 # Author
 author:
     email: 
-    bio:
-    job:
-    location:
+    bio: 
+    job: Web Developer
+    location: Philippines
     # Your profile picture located in folder `source/_images/` (development)
     # or in `source/assets/images/` (production).
     # Overwritten by your gravatar image if `gravatar_image` is enabled
-    picture:
+    picture: photo.png
 
 # Customization
 # Define the behavior of the sidebar
