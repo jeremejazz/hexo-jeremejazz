@@ -41,35 +41,39 @@ sidebar:
             icon: search
             # `st-search-show-outputs` classes are used to open swiftype search window
             class: st-search-show-outputs
+        projects:
+            title: Projects
+            url : /projects
+            icon: github-alt
         about:
             title: About me
             url: /#about
             icon: question
     author_links:
-        # github:
-        #     title: GitHub
-        #     url: https://github.com/
-        #     icon: github
-        # stack_overflow:
-        #     title: Stack Overflow
-        #     url: http://stackoverflow.com/users/
-        #     icon: stack-overflow
-        # twitter:
-        #     title: Twitter
-        #     url: https://twitter.com/
-        #     icon: twitter
-        # facebook:
-        #     title: Facebook
-        #     url: https://www.facebook.com/
-        #     icon: facebook
-        # google_plus:
-        #     title: Google +
-        #     url: https://plus.google.com/
-        #     icon: google-plus
-        # linked_in:
-        #     title: Linked In
-        #     url: https://www.linkedin.com/profile/
-        #     icon: linkedin
+        github:
+             title: GitHub
+             url: https://github.com/jeremejazz
+             icon: github
+        stack_overflow:
+             title: Stack Overflow
+             url: http://stackoverflow.com/users/1109352/jeremejazz
+             icon: stack-overflow
+        twitter:
+             title: Twitter
+             url: https://twitter.com/jeremejazz
+             icon: twitter
+        facebook:
+             title: Facebook
+             url: https://www.facebook.com/jeremejazz
+             icon: facebook
+        google_plus:
+             title: Google +
+             url: https://plus.google.com/+JeremeCausing
+             icon: google-plus
+        linked_in:
+             title: Linked In
+             url: https://www.linkedin.com/profile/jeremecausing
+             icon: linkedin
         # mail:
         #     title: Mail
         #     url: mailto:
