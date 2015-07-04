@@ -69,4 +69,4 @@ theme: tranquilpeak-hexo-theme
 ## Docs: http://hexo.io/docs/deployment.html
 deploy: 
   type: git
-  repo: https://github.com/jeremejazz/hexo-jeremejazz
+  repo: https://github.com/jeremejazz/jeremejazz.github.com
