@@ -5,10 +5,10 @@
 # Site
 title: jeremejazz
 subtitle: My Adventures in Github space
-description:
+description: My Adventures in Github space
 author: Jereme Causing
-language: en
-timezone: Asia/Manila
+language:
+timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -35,7 +35,7 @@ external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
 post_asset_folder: true
-relative_link: true
+relative_link: false
 future: true
 highlight:
   enable: true
@@ -67,6 +67,6 @@ theme: tranquilpeak-hexo-theme
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
-deploy: 
+deploy:
   type: git
   repo: https://github.com/jeremejazz/jeremejazz.github.com
