@@ -27,10 +27,10 @@ sidebar:
             title: Categories
             url: /all-categories
             icon: bookmark
-        tags:
-            title: Tags
-            url: /all-tags
-            icon: tags
+        #tags:
+        #    title: Tags
+        #    url: /all-tags
+        #    icon: tags
         archives:
             title: Archives
             url: /all-archives
@@ -62,18 +62,18 @@ sidebar:
              title: Twitter
              url: https://twitter.com/jeremejazz
              icon: twitter
-        facebook:
-             title: Facebook
-             url: https://www.facebook.com/jeremejazz
-             icon: facebook
-        google_plus:
-             title: Google +
-             url: https://plus.google.com/+JeremeCausing
-             icon: google-plus
-        linked_in:
-             title: Linked In
-             url: https://www.linkedin.com/profile/jeremecausing
-             icon: linkedin
+        #facebook:
+        #     title: Facebook
+        #     url: https://www.facebook.com/jeremejazz
+        #     icon: facebook
+        #google_plus:
+        #     title: Google +
+        #     url: https://plus.google.com/+JeremeCausing
+        #     icon: google-plus
+        #linked_in:
+        #     title: Linked In
+        #     url: https://www.linkedin.com/profile/jeremecausing
+        #     icon: linkedin
         # mail:
         #     title: Mail
         #     url: mailto:
@@ -140,5 +140,5 @@ google_analytics_id: UA-59805255-1
 # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
 gravatar_email: 
 # Your swiftype install key
-swiftype_install_key:
+swiftype_install_key: xtsYrcNbnkrc-J6uSR6y
 
