@@ -35,10 +35,11 @@ sidebar:
             title: Archives
             url: /all-archives
             icon: archive
-        search:
-            title: Search
-            url: /#search
-            icon: search
+#TODO use google search            
+#        search:
+#            title: Search
+#            url: /#search
+#            icon: search
             # `st-search-show-outputs` classes are used to open swiftype search window
             class: st-search-show-outputs
         projects:
@@ -54,10 +55,10 @@ sidebar:
              title: GitHub
              url: https://github.com/jeremejazz
              icon: github
-        stack_overflow:
-             title: Stack Overflow
-             url: http://stackoverflow.com/users/1109352/jeremejazz
-             icon: stack-overflow
+        #stack_overflow:
+        #     title: Stack Overflow
+        #     url: http://stackoverflow.com/users/1109352/jeremejazz
+        #     icon: stack-overflow
         twitter:
              title: Twitter
              url: https://twitter.com/jeremejazz
@@ -140,5 +141,5 @@ google_analytics_id: UA-59805255-1
 # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
 gravatar_email: 
 # Your swiftype install key
-swiftype_install_key: xtsYrcNbnkrc-J6uSR6y
+swiftype_install_key:
 
